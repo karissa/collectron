@@ -1,0 +1,27 @@
+{
+  "name": "collectron",
+  "version": "1.0.0",
+  "description": "collect social media data",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karissa/collectron.git"
+  },
+  "keywords": [
+    "collection",
+    "social",
+    "media",
+    "internet",
+    "collect",
+    "automatic"
+  ],
+  "author": "Karissa McKelvey <karissa@karissamck.com> (http://karissamck.com/)",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/karissa/collectron/issues"
+  },
+  "homepage": "https://github.com/karissa/collectron#readme"
+}
